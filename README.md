@@ -4,7 +4,7 @@
 On Desktop
 
 ![first](https://github.com/adityarj14/Netflix-Clone/assets/140752793/9bb093a1-8f54-4099-ad6d-215275eb0e05)
-![2nd](https://github.com/adityarj14/Netflix-Clone/assets/140752793/71dc2dca-1c0a-4e3b-90b9-75fe789eb899)
+![2nd](https://github.com/adityarj14/Netflix-Clone/assets/140752793/aa170c86-ada3-4d5d-bf86-8aff45f35e6f)
 ![3rd](https://github.com/adityarj14/Netflix-Clone/assets/140752793/c8998c59-d70c-45f1-bc41-83c599ddd105)
 ![4th](https://github.com/adityarj14/Netflix-Clone/assets/140752793/19a2cd53-4813-45bc-9377-fb329ab9e453)
 ![5th](https://github.com/adityarj14/Netflix-Clone/assets/140752793/265929b5-93b7-49ba-97c7-748163ab4d08)
