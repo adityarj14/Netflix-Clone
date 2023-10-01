@@ -11,4 +11,13 @@ On Desktop
 ![6th](https://github.com/adityarj14/Netflix-Clone/assets/140752793/af941d7a-d720-4f4a-b6ad-a807e8f9ff2a)
 ![7th](https://github.com/adityarj14/Netflix-Clone/assets/140752793/c3bf6c48-a671-4502-bd79-bc54820fec79)
 
+
+
 On Mobile
+
+
+![fst](https://github.com/adityarj14/Netflix-Clone/assets/140752793/f08fde64-9ca4-4d1b-b4b3-39544b026d02)
+![sec](https://github.com/adityarj14/Netflix-Clone/assets/140752793/cd6df3f9-ade0-46ab-9449-1105bd4d40ba)
+![thir](https://github.com/adityarj14/Netflix-Clone/assets/140752793/8a56aa0c-c4de-479c-abc2-7163d4a23c32)
+![fourth](https://github.com/adityarj14/Netflix-Clone/assets/140752793/2ad21f47-0a1e-4d32-975d-6addd3cd2bcf)
+![fifth](https://github.com/adityarj14/Netflix-Clone/assets/140752793/77e95dc8-1d5e-45d9-b1d9-27f232549561)
